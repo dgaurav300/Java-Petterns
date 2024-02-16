@@ -11,7 +11,7 @@ public class Pattern8 {
         for(int row=1;row<=5;row++) {
             // Printing spaces before each number
             for(int space=(5-row);space>0;space--) {
-            System.out.print("  ");
+            System.out.print(" ");//Print Space
             }
 
             // Printing numbers in a row
